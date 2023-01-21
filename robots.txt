@@ -1,3 +1,0 @@
-User-agent: *
-Disallow: /theme/*
-Sitemap: https://yi1lei6a3.github.io/sitemap.xml
