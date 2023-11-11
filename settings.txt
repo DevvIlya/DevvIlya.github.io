@@ -1,4 +1,4 @@
-{"site_url":"https://yi1lei6a3.github.io/",
+{"site_url":"https://DevvIlya.github.io/",
 "site_title": "Ilya Dubinin: Fullstack-разработчик на Python",
 "description": "Ilya Dubinin - портфолио, резюме и блог Python разработчика",
 "keywords": "Веб-разработка на Python, бэкенд на Django и Flask",
@@ -10,9 +10,7 @@
 "sect3":"Портфолио",
 "sect4":"Блог",
 "sect5":"Контакты",
-"telegram":"https://t.me/Eliajaa",
-"instagram":"https://instagram.com/ilya.dubinin?igshid=YmMyMTA2M2Y=",
-"vk":"https://vk.com/mr_ilya_dubinin",
-"email":"mailto:yi1lei6a3@gmail.com",
+"telegram":"https://t.me/DevvIlya",
+"email":"mailto:deweett@gmail.com",
 "city":"Batumi"
 }
